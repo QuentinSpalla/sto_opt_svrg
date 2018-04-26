@@ -1,0 +1,5 @@
+# SVRG
+
+
+# GRADIENT DESCENT
+INITIAL_LEARNING_RATE = 0.001 # Lipsitz Constant ??

@@ -3,6 +3,12 @@ import math
 
 
 def increase_size_list(small_list, new_size):
+    """
+    Creates a new list with a bigger size. Each value are multiply to fill empty value
+    :param small_list: initial list
+    :param new_size: size of the bigger list
+    :return: bigger list
+    """
     size_small_list = len(small_list)
 
     if new_size>size_small_list:
